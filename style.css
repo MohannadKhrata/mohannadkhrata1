@@ -1,0 +1,195 @@
+*{
+    
+    Margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+/* All Backgrounds  */
+.header{
+	
+
+	height: 100vh;
+	width: 100%;
+	background-image: url(../images/back3.png);
+	background-size: cover;
+	background-position: center;
+}
+
+
+.header1{
+	
+
+	height: 100vh;
+	width: 100%;
+	background-image: url(../images/back.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+/* End of Backgrounds */
+
+
+
+
+/* Start of the NavBar */
+nav{
+    
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px 0 10px;
+    
+}
+    
+
+
+
+
+nav ul {
+    
+    flex: 1;
+    text-align: right;
+    padding-right: 10px;
+    
+    
+}
+
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+nav ul li a:hover{
+    color: #f9004d;
+}
+
+/* End of the NavBar */
+
+/* start of the auto text */
+.text-box{
+    
+    margin-top: 15%;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: white;
+    
+       
+}
+.text-box h1 {
+    
+    
+    font-size: 65px;
+    line-height: 160px;
+    color: white;
+    
+}
+
+/* End of the auto text */
+
+/*----------------------about---------------------*/
+
+.about{
+
+	height: 100vh;
+	width: 100%;
+
+}
+
+.about img{
+    height: : auto;
+    width: 450px;
+    padding-top: 50px;
+   
+    
+}
+
+.about-text{
+    
+    width: 550px;
+    
+}
+
+
+.main{
+    
+    width: 1130x;
+    max-width: 95%;
+    margin 0 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+    
+    
+}
+
+.about-text h2{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+
+.about-text h5{
+    
+    color: #f9004d;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    
+    
+}
+span{
+    color: White ;
+}
+
+
+.about-text  p{
+    color: white;
+    letter-spacing: 1px;
+    line-height: 29px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.audio{
+  
+
+margin: 10px;
+   
+  
+}
+
+.audio2{
+  
+
+margin: 10px;
+   
+  
+}
+
+
+
+
+
+
+
+
+
